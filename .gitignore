@@ -1,0 +1,7 @@
+logs/
+*.log
+showtimes_cache.json
+posters_cache.json
+.DS_Store
+__pycache__/
+*.pyc
